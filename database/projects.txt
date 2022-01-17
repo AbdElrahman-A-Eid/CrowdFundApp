@@ -1,0 +1,12 @@
+1;Edited Project;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.;2;20500;28/01/2022;22/02/2022
+2;Test Project;This is a description for a Test crowdfun project!! Arent you excited? DM me at @Ali. *giggles*;3;230541;02/10/2022;18/10/2022
+5;My Awesome Project;1234;0;9800;17/1/2022;17/01/2022
+6;Great Project;Awesome Fundraiser for my great project;1;35000;8/10/2022;9/10/2022
+7;Awesome Testing;Hello, this is a test project. DM Me at @Yinshe.  Multi line cause issues, so I removed new line characters. Hope it works this time...;0;12345;20/01/2022;20/01/2022
+8;Testing Again;This is a description for a Test crowdfun project!! Arent you excited? DM me at @Ali. *giggles*;0;85201;25/01/2022;26/01/2022
+10;Testing 123;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Edited;0;12547;19/01/2022;20/01/2022
+11;12 Testing 123;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Edited Not again!;0;12547;19/01/2022;20/01/2022
+12;Another Test - 9;Helloo there. Nice to meet you @ this place! Hope every thing is going well. Bye for now;0;85000;18/01/2022;18/01/2022
+13;Let's Try Again;Great descriptionGreat descriptionGreat descriptionGreat description;0;5200;18/01/2022;22/01/2022
+14;Funny Project;decription Test decription Test decription Test decription Test decription Test decription Test decription Test ;2;150000;18/01/2022;18/03/2022
+15;Azzam Project;This is a description for Azzam's project;0;12500;20/01/2022;21/01/2022

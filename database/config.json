@@ -1,0 +1,1 @@
+{"delimiter": ";", "path": {"users": "database/users.txt", "projects": "database/projects.txt", "logged": "database/logged.txt", "config": "database/config.json", "profiles": "database/profiles.txt", "imgs": "database/imgs/"}, "identifierCol": {"users": 3, "owners": 3, "projects": 0, "profiles": 0}}
