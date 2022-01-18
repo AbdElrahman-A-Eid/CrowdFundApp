@@ -991,9 +991,6 @@ padding: 4px;</string>
      <property name="text">
       <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#5c3566;&quot;&gt;Profile Picture:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
      </property>
-     <property name="buddy">
-      <cstring>bio_input</cstring>
-     </property>
     </widget>
     <widget class="QLabel" name="image_name">
      <property name="geometry">
@@ -1142,8 +1139,12 @@ padding: 4px;</string>
   </widget>
  </widget>
  <tabstops>
-  <tabstop>bio_input</tabstop>
+  <tabstop>country</tabstop>
   <tabstop>city</tabstop>
+  <tabstop>university</tabstop>
+  <tabstop>degree</tabstop>
+  <tabstop>bio_input</tabstop>
+  <tabstop>image_button</tabstop>
   <tabstop>edit_button</tabstop>
   <tabstop>cancel_button</tabstop>
  </tabstops>
